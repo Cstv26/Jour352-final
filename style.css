@@ -21,3 +21,11 @@ blockquote{
     margin-left: 15px;
     color: darkred;
 }
+.sign{
+    width: 100%;
+    height: auto;
+}
+p.caption{
+    margin-top: 0;
+    color: grey;
+}
