@@ -14,3 +14,10 @@ h1{
     font-family: 'Montserrat', sans-serif;
     font-style: italic;
 }
+blockquote{
+    display: block;
+    border-left: 4px solid;
+    font-weight: 550;
+    margin-left: 15px;
+    color: darkred;
+}
