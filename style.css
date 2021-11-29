@@ -29,3 +29,14 @@ p.caption{
     margin-top: 0;
     color: grey;
 }
+.map{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.graph{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+body {
+    padding-bottom: 50px;
+}
