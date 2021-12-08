@@ -30,26 +30,26 @@ p.caption{
     color: grey;
 }
 .map{
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 .graph{
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 body {
     padding-top: 30px;
     padding-bottom: 30px;
 }
 .pic1{
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 .health{
     width: 100%;
     height: auto;
 }
 .pic2{
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
